@@ -593,6 +593,26 @@ nav {
     }
 }
 
+footer {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    z-index: 2;
+    background: #100e1d;
+    padding-bottom: 2rem;
+
+    text-align: center;
+
+    color: #bdbdbd;
+
+    a {
+        font-weight: 700;
+        color: #a1a1a1;
+    }
+}
+
 @media screen and (max-width: 1000px) {
     #services {
         .ser-type {
